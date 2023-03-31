@@ -1,6 +1,6 @@
 # Mini-project_python-tk-sqltie3
 ## Form_GUI
-### Run in ubuntu 
+#### Run in ubuntu 
 1. ติดตั้ง wine
 ```
 sudo apt-get install wine wine-development
@@ -23,7 +23,7 @@ wine folder/file.exe
 ```
 sudo wine folder/file.exe
 ```
-### Run in windows (คลิกที่ไฟล์ .exe ได้เลย)
+#### Run in windows (คลิกที่ไฟล์ .exe ได้เลย)
 
 ### การใช้งาน
 
