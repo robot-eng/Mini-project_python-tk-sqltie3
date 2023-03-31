@@ -26,4 +26,6 @@ sudo wine folder/file.exe
 
 ### การใช้งาน
 
-# COMEiNG SOON
+https://user-images.githubusercontent.com/79349006/229065678-d6f500f4-19ca-47d9-9fac-b90e9c5aa90b.mp4
+
+
