@@ -22,3 +22,4 @@ wine folder/file.exe
 ```
 sudo wine folder/file.exe
 ```
+### Run in windows (คลิกที่ไฟล์ .exe ได้เลย)
