@@ -18,12 +18,12 @@ WINEARCH=win32 WINEPREFIX=~/clean_win32 winecfg
 ```
 wine folder/file.exe
 ```
-ถ้ามีทำนอง wine: could not load kernel32.dll, status c0000135 ในรัน
+ถ้ามี Error ทำนอง wine: could not load kernel32.dll, status c0000135 ให้รัน
 
 ```
 sudo wine folder/file.exe
 ```
-#### Run in windows (คลิกที่ไฟล์ .exe ได้เลย)
+### Run in windows (คลิกที่ไฟล์ .exe ได้เลย)
 
 ### การใช้งาน
 
